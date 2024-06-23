@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hello, I'm Pranav Krishnakumar. Welcome to my profile!
+I am an enthusiastic Undergraduate Computer Science student at the University of Birmingham Dubai, with a strong passion for Data Science. I am actively interested in pursuing roles in Data Analysis, Data Engineering, and Machine Learning Engineering.
 
-<!--
-**pranav-0309/pranav-0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills and Technologies
+- **Programming Languages**: Python, Java, C, HTML, CSS
+- **Databases**: MySQL, PostgreSQL
+- **Python Libraries for Data Science**: NumPy, Pandas, Sci-kit learn, SciPy, Matplotlib, Tensorflow, PyTorch
+- **Soft Skills**: Problem Solving, Critical Thinking, Leadership, Time Management
 
-Here are some ideas to get you started:
+## 💼 Career Aspirations
+I am excited to leverage my knowledge and skills in Data Science to contribute to innovative projects and make data-driven decisions. I am particularly interested in:
+- Data Analyst roles where I can interpret and analyze data to derive business insights.
+- Data Engineer roles to design and build scalable data infrastructure.
+- Machine Learning Engineer roles to develop and deploy machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+I have worked on several projects that showcase the skills and technologies I have learned.
+Feel free to explore these projects to see how I apply my skills in real-world scenarios.
+
+## 📫 Get in Touch
+- LinkedIn: https://www.linkedin.com/in/pranav-krishnakumar-899670252/
+- Email: pranavkumarpk720@gmail.com
+
+I am always open to discussing new opportunities, collaborations, or simply sharing knowledge. Let's connect!
+
+## 🌟 Personal Interests
+- Machine Learning
+- Data Visualization
+- Data Analysis
+
+Thank you for visiting my profile. I look forward to connecting with you!
