@@ -2,9 +2,10 @@
 I am an enthusiastic Undergraduate Computer Science student at the University of Birmingham Dubai, with a strong passion for Data Science. I am actively interested in pursuing roles in Data Analysis, Data Engineering, and Machine Learning Engineering.
 
 ## 🚀 Skills and Technologies
-- **Programming Languages**: Python, Java, C, HTML, CSS
+- **Programming Languages**: Python, Java, C
+- **Web Development**: HTML, CSS, TypeScript
 - **Databases**: MySQL, PostgreSQL
-- **Python Libraries for Data Science**: NumPy, Pandas, Sci-kit learn, SciPy, Matplotlib, Tensorflow, PyTorch
+- **Python Libraries for Data Science**: NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Tensorflow, Keras, PyTorch
 - **Soft Skills**: Problem Solving, Critical Thinking, Leadership, Time Management
 
 ## 💼 Career Aspirations
