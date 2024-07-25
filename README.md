@@ -26,7 +26,7 @@ I am always open to discussing new opportunities, collaborations, or simply shar
 
 ## 🌟 Personal Interests
 - Machine Learning
-- Data Visualization
+- Deep Learning
 - Data Analysis
 
 Thank you for visiting my profile. I look forward to connecting with you!
