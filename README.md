@@ -3,9 +3,9 @@ I am an enthusiastic Undergraduate Computer Science student at the University of
 
 ## 🚀 Skills and Technologies
 - **Programming Languages**: Python, Java, C
-- **Web Development**: HTML, CSS, TypeScript
+- **Web Development**: HTML, CSS, TypeScript, Streamlit
 - **Databases**: MySQL, PostgreSQL
-- **Python Libraries for Data Science**: NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, PyTorch
+- **Python Libraries for Data Science**: NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, PyTorch, Langchain
 - **Soft Skills**: Problem Solving, Critical Thinking, Leadership, Time Management
 
 ## 💼 Career Aspirations
