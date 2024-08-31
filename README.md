@@ -9,10 +9,9 @@ I am an enthusiastic Undergraduate Computer Science student at the University of
 - **Soft Skills**: Problem Solving, Critical Thinking, Leadership, Time Management
 
 ## 💼 Career Aspirations
-I am excited to leverage my knowledge and skills in Data Science to contribute to innovative projects and make data-driven decisions. I am particularly interested in:
-- Data Analyst roles where I can interpret and analyze data to derive business insights.
-- Data Engineer roles to design and build scalable data infrastructure.
+I am excited to leverage my knowledge and skills in Data Science and Generative AI to contribute to innovative projects and make data-driven decisions. I am particularly interested in:
 - Machine Learning Engineer roles to develop and deploy machine learning models.
+- AI Engineer roles to develop solve business problems using LLMs.
 
 ## 📂 Projects
 I have worked on several projects that showcase the skills and technologies I have learned.
