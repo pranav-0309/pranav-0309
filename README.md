@@ -1,6 +1,5 @@
 ## 👋 Hello, I'm Pranav Krishnakumar. Welcome to my profile!
-I am an enthusiastic Undergraduate Computer Science student at the University of Birmingham Dubai, with a strong passion for Data Science. I am actively interested in pursuing roles in Data Analysis, Data Engineering, and Machine Learning Engineering.
-
+I am an enthusiastic Undergraduate Computer Science student at the University of Birmingham Dubai, with a strong passion for Data Science & AI. I am actively looking for roles of an AI Engineer, Machine Learning Engineer or a Data Scientist.
 ## 🚀 Skills and Technologies
 - **Programming Languages**: Python, Java, C
 - **Web Development**: HTML, CSS, TypeScript, Streamlit
