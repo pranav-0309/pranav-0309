@@ -4,7 +4,9 @@ I am an enthusiastic Undergraduate Computer Science student at the University of
 - **Programming Languages**: Python, Java, C
 - **Web Development**: HTML, CSS, TypeScript, Streamlit
 - **Databases**: MySQL, PostgreSQL
+- **Vector Databases**: Astra DB, Chroma DB, Qdrant, FAISS
 - **Python Libraries for Data Science**: NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, PyTorch, Langchain
+- **AI SDKs in Python**: LangChain, LangFlow, AutoGen, LlamaIndex, Smolagents
 - **Soft Skills**: Problem Solving, Critical Thinking, Leadership, Time Management
 
 ## 💼 Career Aspirations
